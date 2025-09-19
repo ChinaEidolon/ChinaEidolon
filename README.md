@@ -12,6 +12,6 @@ My name's Hengrui, I'm a CS + Math minor student at Northeastern! I like trying 
 
 Manage your own organization at https://signmeup.world
 
-Want an easy good habit? krumbit.vercel.app
+Want an easy good habit? https://krumbit.vercel.app
 
 Right now I'm researching for the Neuromechanics Lab at Northeastern, developing my own side project, and I'm a software engineer for SUITS@NU.
