@@ -1,3 +1,3 @@
 ## Welcome lads
 
-Currently hyperfixated on firmware, neurotechnology, platform engineering and perhaps algorithms/math
+Currently hyperfixated on firmware, neurotechnology, platform engineering and perhaps algorithms/math. Oh and of course, my [startup](krumbit.co)
